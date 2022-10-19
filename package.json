@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/viktorlarsson/vue-tiny-slider#readme",
   "dependencies": {
+    "@babel/preset-env": "^7.19.4",
     "lodash": "^4.17.11",
     "tiny-slider": "^2.9.2"
   },
